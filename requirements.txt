@@ -1,0 +1,15 @@
+# requirements.txt
+
+# Streamlit for UI
+streamlit
+
+# Torch for YOLO
+torch
+
+# Required by YOLOv5
+torchvision
+Pillow
+numpy
+opencv-python
+matplotlib
+PyYAML

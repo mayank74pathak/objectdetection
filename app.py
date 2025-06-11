@@ -54,7 +54,7 @@ def load_model():
     # Make sure this path is correct based on your training output
     # You mentioned 'pen_bottle_detection2' was the actual output folder
     # So, let's use that here for clarity and correctness.
-    model_path = project_root / "best.pt"
+    model_path = project_root / best.pt
     
     if not model_path.exists():
         st.error(f"Model file not found at: {model_path}. Please train the model first and verify the path.")

@@ -10,5 +10,5 @@ numpy>=1.24.0
 opencv-python-headless>=4.8.0
 matplotlib>=3.7.0
 PyYAML>=6.0
-
-ultralytics # <--- ADD THIS LINE!
+ultralytics # This was added
+seaborn # <--- ADD THIS LINE!
